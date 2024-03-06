@@ -14,6 +14,7 @@ target_link_libraries(bpftimetool
   -lpthread
   -lm
   -ldl
+  -lrt
   runtime
   bpftime-object
 )

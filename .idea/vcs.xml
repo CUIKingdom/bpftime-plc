@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/bpftime-verifier/ebpf-verifier" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/bpftime-verifier/ebpf-verifier/ebpf-samples" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/bpftime-verifier/ebpf-verifier/ebpf-samples/bpf_cilium_test" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/bpftime-verifier/ebpf-verifier/external/ELFIO" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/bpftime-verifier/ebpf-verifier/external/bpf_conformance" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/bpftime-verifier/ebpf-verifier/external/bpf_conformance/external/elfio" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/bpftime-verifier/ebpf-verifier/external/libbtf" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/bpftime-verifier/ebpf-verifier/external/libbtf/external/ebpf-samples" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/bpftime-verifier/ebpf-verifier/external/libbtf/external/ebpf-samples/bpf_cilium_test" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/bpftime-verifier/ebpf-verifier/external/radix_tree" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/third_party/Catch2" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/third_party/argparse" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/third_party/bpftool" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/third_party/bpftool/libbpf" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/third_party/libbpf" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/third_party/spdlog" vcs="Git" />
+  </component>
+</project>
